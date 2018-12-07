@@ -3,3 +3,5 @@
 
 https://medium.com/@aidanbon/data-schema-management-c93ec5f3f993
 
+https://www.infoworld.com/article/3269207/enterprise-architecture/busting-event-driven-myths.html
+the schema of the events published is now the API between services
